@@ -1,14 +1,16 @@
 package devices;
 
-public class RingDevice {
+public abstract class RingDevice {
 //    Mobile mobile;
 //    Stationery stationery;
 
-    int number;
+   private int number;
 
-    public RingDevice() {
-
+    public RingDevice(int number) {
+        this.number = number;
     }
+
+
 
     //    public RingDevice(Stationery stationery) {
 //        this.stationery = stationery;

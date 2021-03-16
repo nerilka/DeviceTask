@@ -2,10 +2,10 @@ package devices;
 
 import devices.devices.LandLineTelephone;
 
-public class Stationery extends RingDevice {
-
-
-
+public abstract class Stationery extends RingDevice {
+    public Stationery(int number) {
+        super(number);
+    }
 
 //    LandLineTelephone landLineTelephone;
 //

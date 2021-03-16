@@ -2,7 +2,7 @@ package devices.generation;
 
 public interface ThirdGeneration extends SecondGeneration {
     @Override
-    void onlyCall();
+    void call();
 
     @Override
     void sendMessage();

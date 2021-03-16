@@ -3,7 +3,10 @@ package devices;
 import devices.devices.CellPhone;
 import devices.devices.SmartPhone;
 
-public class Mobile extends RingDevice {
+public abstract class Mobile extends RingDevice {
+    public Mobile(int number) {
+        super(number);
+    }
 
 
 

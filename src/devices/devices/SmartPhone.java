@@ -4,8 +4,12 @@ import devices.generation.ThirdGeneration;
 
 public abstract class SmartPhone extends CellPhone implements ThirdGeneration {
 
+    public SmartPhone(int number) {
+        super(number);
+    }
+
     @Override //метод от интерфейса
-    public void onlyCall() {
+    public void call() {
         System.out.println("Я звоню");
     }
 
