@@ -1,14 +1,9 @@
 package devices;
 
-import devices.devices.CellPhone;
-import devices.devices.SmartPhone;
-
 public abstract class Mobile extends RingDevice {
     public Mobile(int number) {
         super(number);
     }
-
-
 
 
 //    CellPhone cellPhone;

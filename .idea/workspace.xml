@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d0ee8fb-1822-4417-925a-2e6325965e26" name="Default Changelist" comment="" />
+    <list default="true" id="4d0ee8fb-1822-4417-925a-2e6325965e26" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user/PhoneType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/Mobile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/Mobile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/RingDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/RingDevice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/Stationery.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/Stationery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/devices/CellPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/devices/CellPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/devices/LandLineTelephone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/devices/LandLineTelephone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/devices/SmartPhone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/devices/SmartPhone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/generation/FirstGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/generation/FirstGeneration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/generation/SecondGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/generation/SecondGeneration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/devices/generation/ThirdGeneration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/devices/generation/ThirdGeneration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Proj1/user/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Proj1/user/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/Mobile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/RingDevice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/RingDevice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/Stationery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/Stationery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/devices/CellPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/devices/CellPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/devices/LandLineTelephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/devices/LandLineTelephone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/devices/devices/SmartPhone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/devices/devices/SmartPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/user/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/user/Human.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,8 +35,12 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1pTNeqiVzr4uAWvooHwDvR7yWFY" />
   <component name="ProjectViewState">
@@ -25,7 +52,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaRushTasks" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -55,41 +83,69 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1615895568330">
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1616432593992">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1615895568330" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1616432593992" />
     <state x="479" y="248" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1615211713299">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="479" y="248" width="407" height="241" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728@0.0.1366.728" timestamp="1615211713299" />
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1616415598071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1616415598071" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1615896494152">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1615896494152" />
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1615472443169">
+    <state width="1322" height="208" key="GridCell.Tab.0.bottom" timestamp="1616435546787">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1615472443169" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1615472443169">
+    <state width="1322" height="208" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616435546787" />
+    <state width="1322" height="208" key="GridCell.Tab.0.center" timestamp="1616435546787">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1615472443169" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1615472443169">
+    <state width="1322" height="208" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616435546787" />
+    <state width="1322" height="208" key="GridCell.Tab.0.left" timestamp="1616435546787">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1615472443169" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1615472443169">
+    <state width="1322" height="208" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616435546787" />
+    <state width="1322" height="208" key="GridCell.Tab.0.right" timestamp="1616435546787">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1615472443169" />
+    <state width="1322" height="208" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616435546787" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1616435495121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616435495121" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1616435495121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616435495121" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1616435495121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616435495121" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1616435495121">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616435495121" />
     <state x="263" y="98" key="IDE.errors.dialog" timestamp="1615895923373">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="263" y="98" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1615895923373" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1615923925596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1615923925596" />
     <state x="65" y="0" key="new project wizard" timestamp="1615655833080">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1615655833080" />
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1616431131146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="425" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1616431131146" />
   </component>
 </project>

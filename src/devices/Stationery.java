@@ -1,7 +1,5 @@
 package devices;
 
-import devices.devices.LandLineTelephone;
-
 public abstract class Stationery extends RingDevice {
     public Stationery(int number) {
         super(number);

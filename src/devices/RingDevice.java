@@ -1,12 +1,29 @@
 package devices;
 
-public abstract class RingDevice {
-//    Mobile mobile;
-//    Stationery stationery;
+import user.PhoneType;
 
-   private int number;
+public abstract class RingDevice {
+    private PhoneType phoneType;
+
+    public PhoneType getPhoneType() {
+        return phoneType;
+    }
+
+    public void setPhoneType(PhoneType phoneType) {
+        this.phoneType = phoneType;
+    }
+
+   private static int number;
 
     public RingDevice(int number) {
+        RingDevice.number = number;
+    }
+
+     public int getNumber() {
+        return number;
+    }
+
+    public void setNumber(int number) {
         this.number = number;
     }
 
